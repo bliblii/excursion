@@ -1,16 +1,16 @@
 body {
     background-color: black;
-    text-align:       center;
-    text-align:       -moz-center;
-    text-align:       -webkit-center;
+    text-align:         center;
+    text-align:    -moz-center;
+    text-align: -webkit-center;
     font-family: Verdana;
 }
 
 h1 {
     font-weight: normal;
-    font-size:   50px;
-    color:       white;
-    text-align:  center;
+    font-size: 50px;
+    color: white;
+    text-align: center;
 }
 
 .sub-header {
@@ -19,18 +19,18 @@ h1 {
 }
 
 .excursion_link {
-    color:       aquamarine;
-    font-size:   16px;
+    color: aquamarine;
+    font-size: 16px;
 }
 
 .mention, .copyright {
-    font-size:   21px;
-    color:       Gray;
+    font-size: 21px;
+    color: Gray;
 }
 
 .copyright {
-    text-align: right;
-    text-align: -moz-right;
+    text-align:         right;
+    text-align:    -moz-right;
     text-align: -webkit-right;
     margin-bottom: 25px;
     margin-right: 10px;
