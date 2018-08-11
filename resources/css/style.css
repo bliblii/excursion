@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    text-align:       center;
+    text-align:       -moz-center;
+    text-align:       -webkit-center;
+}
+
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size:   50px;
+    color:       white;
+    text-align:  center;
+}
+
+.sub-header {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.excursion_link {
+    color:       aquamarine;
+    font-size:   16px;
+}
+
+.mention, .copyright {
+    font-family: Verdana;
+    font-size:   21px;
+    color:       Gray;
+}
+
+.copyright {
+    text-align: right;
+    text-align: -moz-right;
+    text-align: -webkit-right;
+}
